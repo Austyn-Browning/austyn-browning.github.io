@@ -1,30 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/Austyn-Browning/austyn-browning.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Glad you found this place hopfully it answers a questions you might have. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Warning
 
-```markdown
-Syntax highlighted code block
+Please take everything you see and read here with a gain of salt. As things in the IT space change rather quickly. As such you should always double check what you are doing before running anything you find online!!!!
 
-# Header 1
-## Header 2
-### Header 3
+YOU have been warned
 
-- Bulleted
-- List
+Below are links to get you started if you don't have any idea of where you want to go just click one and start down the rabit hole :D
 
-1. Numbered
-2. List
+1. [Linux](/docs/linux.md) 
+2. [Windows](/docs/windows.md)
+3. [Hacks](/docs/hacks.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
