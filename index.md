@@ -6,7 +6,8 @@ Hopefully has you go throught the different projects and links you will find the
 
 
 ```markdown
-[Link](https://austyn-browning.github.io/Linux)
+[Link](test/Linux.md)
+{% link test/Linux.md %}
 
 [Link](url)
 
