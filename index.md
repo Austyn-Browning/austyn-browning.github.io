@@ -6,7 +6,7 @@ Hopefully has you go throught the different projects and links you will find the
 
 
 ```markdown
-[Link](https://austyn-browing.github.io/Linux)
+[Link](https://austyn-browning.github.io/Linux)
 
 [Link](url)
 
