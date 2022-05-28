@@ -1,4 +1,3 @@
-# test to see if a link works
+# Hacks???
 
-
-I hope it does
+This page will be the start what of I do with TryHackMe and the like.

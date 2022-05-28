@@ -1,0 +1,3 @@
+# Windows :(
+
+I won't have a lot on windows due to the fact that most of what I am trying to learn I do on a linux box but there might be something usefull..... at some point....
